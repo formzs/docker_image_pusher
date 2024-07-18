@@ -3,3 +3,5 @@ mysql:5.7.44
 rabbitmq:3.10.10-management
 emqx/emqx:5.7
 gitlab/gitlab-ee:latest
+jenkinsci/blueocean
+sonatype/nexus3
