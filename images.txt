@@ -5,3 +5,5 @@ emqx/emqx:5.7
 gitlab/gitlab-ee:latest
 jenkinsci/blueocean
 sonatype/nexus3
+gitea/gitea:@version@
+postgres:16.3
